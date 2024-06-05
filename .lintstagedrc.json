@@ -1,0 +1,4 @@
+{
+  "*.{js,jsx,vue}": ["prettier --write ."],
+  "*.md": ["prettier --write"]
+}
